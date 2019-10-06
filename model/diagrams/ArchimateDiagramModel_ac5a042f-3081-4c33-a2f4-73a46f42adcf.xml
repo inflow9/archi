@@ -202,4 +202,16 @@
         xsi:type="archimate:ApplicationFunction"
         href="ApplicationFunction_276eb174-19f3-4ada-8117-842987809675.xml#276eb174-19f3-4ada-8117-842987809675"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="0927d5bb-c034-4477-95b8-30b0ab2f69c1">
+    <bounds
+        x="900"
+        y="219"
+        width="277"
+        height="190"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationInterface"
+        href="ApplicationInterface_c6e8d2f2-0044-4016-b589-a4c92df3f6be.xml#c6e8d2f2-0044-4016-b589-a4c92df3f6be"/>
+  </children>
 </archimate:ArchimateDiagramModel>
